@@ -23,6 +23,8 @@ SERVICE SYNERGY: Rapid Route and Light Rail are tied together.
 
 Correlation Coefficient: 0.9677 (Near perfect).
 Insight: When one gets busy, the other does too. They likely feed into each other or serve parallel corridors.
+
+![OVERALL GRAPH](graph_overall.jpeg)
 SARIMAX Forecasting Model
 
 Introduction
