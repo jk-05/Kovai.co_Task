@@ -2,12 +2,11 @@ This project analyzes and forecasts public transport ridership across six differ
 
 
 
-KEY DATA INSIGHTS
+## KEY DATA INSIGHTS
 
-NETWORK BACKBONE: The 'Rapid Route' is the dominant carrier.
-
-It accounts for 39.1% of all traffic, making it critical for infrastructure investment.
-WEEKEND EFFICIENCY: Ridership drops significantly on weekends.
+  - NETWORK BACKBONE: The 'Rapid Route' is the dominant carrier.
+  - It accounts for 39.1% of all traffic, making it critical for infrastructure investment.
+  - WEEKEND EFFICIENCY: Ridership drops significantly on weekends.
 
 Rapid Route volume falls by 61.8% on weekends compared to weekdays.
 Recommendation: Reduce weekend frequency to save operational costs.
@@ -33,7 +32,8 @@ Trend Seasonality Autocorrelation Public transport ridership fits this structure
 
 
 
-COVID-19 Impact (2020–2021) Insight Summary
+## COVID-19 Impact (2020–2021) Insight Summary
+
 A sharp, unprecedented drop in ridership during the COVID lockdowns.
 This anomaly is consistent across all services.
 The steep decline corresponds directly to:
@@ -60,7 +60,7 @@ Flexible scheduling
 Termbased planning
 Seasonal adjustments
 
-SARIMAX Model Structure
+## SARIMAX Model Structure
 SARIMAX(p, d, q) × (P, D, Q, s)
 
 p – Non-seasonal AR order
