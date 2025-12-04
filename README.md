@@ -5,12 +5,12 @@ This project analyzes and forecasts public transport ridership across six differ
 ## KEY DATA INSIGHTS
 
   - NETWORK BACKBONE: The 'Rapid Route' is the dominant carrier.
-  - It accounts for 39.1% of all traffic, making it critical for infrastructure investment.
+        - It accounts for 39.1% of all traffic, making it critical for infrastructure investment.
   - WEEKEND EFFICIENCY: Ridership drops significantly on weekends.
 
-Rapid Route volume falls by 61.8% on weekends compared to weekdays.
-Recommendation: Reduce weekend frequency to save operational costs.
-SCHOOL ALLOCATION: School bus usage is strictly binary.
+    - Rapid Route volume falls by 61.8% on weekends compared to weekdays.
+    - Recommendation: Reduce weekend frequency to save operational costs.
+    - SCHOOL ALLOCATION: School bus usage is strictly binary.
 
 Total ridership on weekends: 60.
 Insight: School assets are 100% idle on weekends and can be repurposed for events or maintenance.
